@@ -67,21 +67,6 @@
 <img width="1377" height="698" alt="image" src="https://github.com/user-attachments/assets/14d598dc-6dcd-4486-ada4-f17fd2f21cf1" />
 
 # Test 3: Résolution du problème N+1 avec Entity Graphs
-<img width="1395" height="692" alt="image" src="https://github.com/user-attachments/assets/33b57ee8-75dd-4a7e-904c-47f771bc9166" />
-<img width="1207" height="850" alt="image" src="https://github.com/user-attachments/assets/19987e8f-3efa-4308-8ede-04653f4baf77" />
-<img width="1460" height="582" alt="image" src="https://github.com/user-attachments/assets/06597dcc-8165-4db0-b054-71a6fbf33d08" />
-<img width="1310" height="391" alt="image" src="https://github.com/user-attachments/assets/bd5aa264-61e8-412d-ac79-54eb85ec4cec" />
-<img width="1047" height="694" alt="image" src="https://github.com/user-attachments/assets/53c797d4-30d5-47ee-9fb2-66c1b77c0dbd" />
-<img width="1387" height="706" alt="image" src="https://github.com/user-attachments/assets/54cb3d5f-e185-4f2c-8a45-2eff509fa4b5" />
-<img width="1520" height="694" alt="image" src="https://github.com/user-attachments/assets/e378a876-576b-4996-b388-d3dc4c340923" />
-<img width="1392" height="692" alt="image" src="https://github.com/user-attachments/assets/89048be6-c677-4df7-93a7-097ad9204da7" />
-<img width="1360" height="694" alt="image" src="https://github.com/user-attachments/assets/4fde65e2-f367-49d6-95d7-fa7bb6e1698b" />
-<img width="1480" height="693" alt="image" src="https://github.com/user-attachments/assets/ef4ef8ee-089d-43d8-9738-ee9b573510ac" />
-<img width="1434" height="698" alt="image" src="https://github.com/user-attachments/assets/64cf1d0d-65e0-4380-a3ea-12a72594a64c" />
-<img width="1392" height="702" alt="image" src="https://github.com/user-attachments/assets/0c4e4d2c-4677-42c3-9108-f497b8ec92a7" />
-<img width="1557" height="890" alt="image" src="https://github.com/user-attachments/assets/f1a70d56-12b4-4dd7-aa5a-4f8cc821dd37" />
-<img width="1354" height="699" alt="image" src="https://github.com/user-attachments/assets/9d2c9ae1-b447-4e8a-bde8-30245ed9b763" />
-<img width="1335" height="683" alt="image" src="https://github.com/user-attachments/assets/08edcec0-4054-4d85-9c91-3ed0a48dd2df" />
 <img width="1020" height="724" alt="image" src="https://github.com/user-attachments/assets/cfdd1f84-7f29-475b-b147-f2eba748c78e" />
 <img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/44756eec-ffbb-4a5a-9541-35e06c858eba" />
 <img width="1301" height="624" alt="image" src="https://github.com/user-attachments/assets/a1b948bf-1b9f-47a6-9dc7-fb25a33a2535" />
@@ -110,32 +95,5 @@
 <img width="1366" height="400" alt="image" src="https://github.com/user-attachments/assets/013eb951-2fc6-427c-825d-47b290a0d08f" />
 
  > Test avec cache
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
