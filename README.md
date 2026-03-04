@@ -93,7 +93,14 @@
 <img width="1548" height="872" alt="image" src="https://github.com/user-attachments/assets/8d5dbc5f-5285-42fb-9c1e-a33bdcdeb94e" />
 <img width="1060" height="722" alt="image" src="https://github.com/user-attachments/assets/5f634fc0-e87b-4b73-925e-93ae2fa355c9" />
 <img width="1366" height="400" alt="image" src="https://github.com/user-attachments/assets/013eb951-2fc6-427c-825d-47b290a0d08f" />
-
  > Test avec cache
+<img width="972" height="495" alt="image" src="https://github.com/user-attachments/assets/5716e9bc-2a62-4dbb-8ded-33f5b34ad3f7" />
+<img width="1462" height="421" alt="image" src="https://github.com/user-attachments/assets/84bf441b-32fb-4042-85e6-9054868394e5" />
+<img width="1141" height="798" alt="image" src="https://github.com/user-attachments/assets/76d3e7b2-b102-4f4b-9939-c276e68c2f71" />
+<img width="1320" height="803" alt="image" src="https://github.com/user-attachments/assets/873658a8-01aa-49fd-a2a2-ec7920e305ce" />
+<img width="1403" height="837" alt="image" src="https://github.com/user-attachments/assets/afbf2e17-06aa-427f-9862-d4613761131c" />
+<img width="1168" height="787" alt="image" src="https://github.com/user-attachments/assets/8b1626ec-8f27-47b8-b58d-e1eba091c680" />
+<img width="1222" height="755" alt="image" src="https://github.com/user-attachments/assets/54833b0e-6164-4c46-9480-01380c3c975a" />
+<img width="1306" height="451" alt="image" src="https://github.com/user-attachments/assets/ce07ce1d-c503-43db-b6fb-26dd02f3b177" />
 
 
